@@ -39,7 +39,8 @@ The system allows users to register pets, request animal rescues, and schedule p
 
 ## 📫 Contact
 
-* GitHub: https://github.com/oReges
+🌐 GitHub: https://github.com/oReges
+💼 LinkedIn: https://www.linkedin.com/in/oreges/
 
 ---
 
